@@ -1,12 +1,10 @@
-## Hi there 👋
+<p align="center">
+    <img width=300px src="https://raw.githubusercontent.com/ProjectHelia/.github/refs/heads/main/project-helia-no-background.png" alt="Project Helia logo">
+</p>
 
-<!--
+<h1 align="center">
+    Project Helia
+</h1>
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+HELIA (High-altitude Exposure Laboratory for Incubation and Analysis) is designed to provide a compact, adaptable, and reproducible platform that maintains a life-sustaining environment for biological samples in stratospheric conditions 20-30km. It actively monitors the biological payload’s response to cumulative ultraviolet (UV) radiation while preserving samples for detailed post-flight molecular analysis. It is meant to be adaptable for any future biological experiment that needs these conditions. 
