@@ -1,9 +1,9 @@
 <p align="center">
-    <img width=300px src="https://raw.githubusercontent.com/ProjectHelia/.github/refs/heads/main/project-helia-no-background.png" alt="Project Helia logo">
+    <img width=300px src="https://raw.githubusercontent.com/ProjectHelia/.github/refs/heads/main/project-helia-no-background.png" alt="Project HELIA logo">
 </p>
 
 <h1 align="center">
-    Project Helia
+    Project HELIA
 </h1>
 
 
